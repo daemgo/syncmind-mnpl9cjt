@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "date": "2026-04-05",
+      "type": "拜访",
+      "content": "客户需要多业务线项目管理系统，预算10万，要求10月前上线",
+      "attendees": [],
+      "actions": [
+        { "action": "采集企业信息并建立档案", "owner": "销售", "assignee": "", "deadline": null, "done": false, "completedAt": null },
+        { "action": "详细需求调研（多业务线管理具体场景）", "owner": "售前", "assignee": "", "deadline": null, "done": false, "completedAt": null },
+        { "action": "根据预算和工期出具初步方案", "owner": "方案", "assignee": "", "deadline": null, "done": false, "completedAt": null }
+      ]
+    }
+  ]
+}
